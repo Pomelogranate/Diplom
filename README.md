@@ -14,4 +14,4 @@
 <br>
 
 2. Создание схемы базы данных<br>
- ![Dow](https://github.com/Pomelogranate/Diplom/blob/main/images/Рисунок1.png)<br>
+ ![SchemaBD](https://github.com/Pomelogranate/Diplom/blob/main/images2/Рисунок1.png)<br>
