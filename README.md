@@ -105,7 +105,9 @@ API: RESTful API, предоставляющее эндпоинты для уп�
 
 <br> 
 
- ![BD](https://github.com/Pomelogranate/Diplom/blob/main/Images2/Рисунок2.png)
+ ![BD](https://github.com/Pomelogranate/Diplom/blob/main/Images2/Рисунок3.png)<br> 
+ 
+ ![BD_Full](https://github.com/Pomelogranate/Diplom/blob/main/Images2/Рисунок2.png)<br> 
  
 <br>
 
